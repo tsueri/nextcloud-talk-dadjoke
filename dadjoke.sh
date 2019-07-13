@@ -30,6 +30,6 @@ topic=$1
   else
 
     set -f
-    echo $(curl -s -H "Accept: text/plain" "https://icanhazdadjoke.com/search?term="$topic"&limit=1")
+    echo $(curl -s -H "User-Agent: Icanhazdadjoke for Nextcloud Talk (https://github.com/tsueri/nextcloud-talk-dadjoke)" "Accept: text/plain" "https://icanhazdadjoke.com/search?term="$topic"&limit=1")
 
   fi
