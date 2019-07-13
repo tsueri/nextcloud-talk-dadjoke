@@ -5,7 +5,7 @@ topic=$1
     while test $# -gt 0; do
       case "$1" in
         --help)
-          echo "/dadjoke - Can I haz dadjoke pleaze?"
+          echo "/dadjoke - I can haz dadjoke?"
           echo " "
           echo "Try /dadjoke [topic]"
           echo " "
