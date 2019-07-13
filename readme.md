@@ -1,6 +1,6 @@
 # Dadjokes on Nextcloud Talk
 
-The world was waiting for this: Dadjokes on Nextcloud Talk!
+The world was waiting for this: Dadjokes on [Nextcloud Talk](https://github.com/nextcloud/spreed)!
 
 ## Installation
 
