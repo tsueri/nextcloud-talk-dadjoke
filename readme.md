@@ -18,4 +18,4 @@ Enter `/dadjoke [and your topic]` to laugh about something specific.
 
 Enter `/dadjoke --help` for help.
 
-Credit for jokes: https://icanhazdadjoke.com
+Credit for jokes: https://icanhazdadjoke.com <img src="https://icanhazdadjoke.com/static/smile.svg" width=20px height=20px>
