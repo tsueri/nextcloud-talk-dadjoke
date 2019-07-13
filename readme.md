@@ -12,7 +12,7 @@ sudo -u www-data php occ talk:command:add dadjoke dadjoke "/path/to/your/directo
 ```
 ## How to use
 
-Enter `/dadjoke`for a random dadjoke.
+Enter `/dadjoke` for a random dadjoke.
 
 Enter `/dadjoke [and your topic]` to laugh about something specific.
 
