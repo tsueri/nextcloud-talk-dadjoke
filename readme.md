@@ -17,3 +17,5 @@ Enter `/dadjoke` for a random dadjoke.
 Enter `/dadjoke [and your topic]` to laugh about something specific.
 
 Enter `/dadjoke --help` for help.
+
+Credit for jokes: https://icanhazdadjoke.com
