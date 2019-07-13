@@ -24,7 +24,7 @@ topic=$1
   if [[ -z $topic ]]; then
     echo "here's a random joke:"
     echo " "
-    echo $(curl -s -H "Accept: text/plain" "https://icanhazdadjoke.com/")
+    echo $(curl -s -H "User-Agent: Icanhazdadjoke for Nextcloud Talk (https://github.com/tsueri/nextcloud-talk-dadjoke)" "Accept: text/plain" "https://icanhazdadjoke.com/")
     exit 0
 
   else
